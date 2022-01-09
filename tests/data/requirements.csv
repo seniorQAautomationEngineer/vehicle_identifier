@@ -1,0 +1,5 @@
+vehicle_type,max_length,max_width,max_height,max_single_weight,max_total_weight
+compact,24,24,36,50,150
+sedan,24,36,48,50,250
+van,120,60,60,70,500
+truck,150,96,84,500,2000
